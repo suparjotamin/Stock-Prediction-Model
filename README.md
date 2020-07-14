@@ -1,2 +1,2 @@
 # Stock-Prediction-Model
-## On going creating Model 1.1 
+## On going creating Model Ver 1.1 
